@@ -1,5 +1,7 @@
 # ComfyUI-TextJoinZveroboy
 
+![comfy-random](https://github.com/thezveroboy/comfyui-TextJoinZveroboy/blob/main/image.jpg)
+
 A ComfyUI custom node: **Text Join Zveroboy**.
 
 Features:
@@ -16,3 +18,4 @@ Restart ComfyUI.
 ## Node
 Category: Zveroboy/Text
 Node: Text Join (Zveroboy)
+
