@@ -39,7 +39,7 @@ class TextJoinZveroboy:
     RETURN_TYPES = ("STRING",)
     RETURN_NAMES = ("text",)
     FUNCTION = "join"
-    CATEGORY = "Zveroboy/Text"
+    CATEGORY = "zveroboy/Text"
 
     def join(self, separator="", text_1=None, text_2=None, **kwargs):
         # Collect fixed optional inputs
@@ -74,3 +74,4 @@ NODE_CLASS_MAPPINGS = {
 NODE_DISPLAY_NAME_MAPPINGS = {
     "TextJoinZveroboy": "Text Join (Zveroboy)",
 }
+
